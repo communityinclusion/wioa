@@ -1,0 +1,15 @@
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+th {
+    background-color: #5D9732;
+    color: white;
+}
+
+p, table, th, td, tr {font-family: 'Lato',sans-serif !important; font-size:16px;}
+
+.bd-pageheader{background-color: #006FA9; color: white;}
+
+.hero{padding:3em;}
